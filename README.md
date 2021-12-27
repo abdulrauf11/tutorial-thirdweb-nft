@@ -21,5 +21,8 @@ node 2-deploy-collection.js
 node 3-min-nft.js
 ```
 
+Make sure you don't run the scripts (2 and 3) multiple times, otherwise it will deploy the same modules and nfts again.
+
+
 ## Tutorial
 Read the full tutorial here: 
