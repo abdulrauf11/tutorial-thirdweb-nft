@@ -25,4 +25,4 @@ Make sure you don't run the scripts (2 and 3) multiple times, otherwise it will 
 
 
 ## Tutorial
-Read the full tutorial here: 
+Read the full tutorial here: https://dev.to/abdulrauf11/how-to-create-a-motherfcking-nft-using-javascript-2foj
