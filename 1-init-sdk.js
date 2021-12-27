@@ -15,8 +15,8 @@ const sdk = new ThirdwebSDK(
 
 (async () => {
   try {
+    // Get the most recently created project
     const apps = await sdk.getApps();
-    console.log(apps);
     console.log('Your app address is:', apps[0].address);
   } catch (err) {
     console.error('Failed to get apps from the sdk', err);
